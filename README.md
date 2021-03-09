@@ -1,4 +1,4 @@
-# milestone
+# namespace contents list
 
 This codes are for KEVACOIN. You need a php server, kevacoin wallet and setup few files. You can change your own datas like user/password/port.
 
